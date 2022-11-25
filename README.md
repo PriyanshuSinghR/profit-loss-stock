@@ -17,3 +17,14 @@
 - HTML
 - CSS
 - JavaScript
+
+## Live Project
+
+[Live Project](https://priyanshu-profit-loss-stock.netlify.app/)
+
+## Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/priyanshu844/)
+- [Twitter](https://twitter.com/Priyanshu844)
+- [GitHub](https://github.com/PriyanshuSinghR)
+- [Portfolio](https://priyanshu-portfolio.netlify.app/)

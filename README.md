@@ -22,6 +22,10 @@
 
 [Live Project](https://priyanshu-profit-loss-stock.netlify.app/)
 
+## Screenshots
+
+![stock](ss/stock.jpg)
+
 ## Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/priyanshu844/)

@@ -24,7 +24,7 @@
 
 ## Screenshots
 
-![stock](ss/stock.jpg)
+![](ss/stock.jpg)
 
 ## Connect with me
 

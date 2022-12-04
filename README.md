@@ -25,6 +25,7 @@
 ## Screenshots
 
 ![](ss/stock.jpg)
+![stock](https://user-images.githubusercontent.com/52795506/205506029-cc156d0f-43ba-4638-823f-27c1ee7accb7.jpg)
 
 ## Connect with me
 
